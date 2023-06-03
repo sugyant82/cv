@@ -1,0 +1,11 @@
+strictly followed Agile methodologies and DevOps practices with iterative development, cross-functional collaboration, automated testing, 
+and continuous delivery to achieve tarfetted production release timelines and maintained high-quality microservices.
+
+The project is to completely replace a proprietary Temenos application.
+Developed Java Spring Boot microservices/Restful APIs from ground-up, and built new web UI using ReactJS/Typescript/MaterialUI.
+Contributed largely in improving SonarQube quality gate to achieve 94% for both service and frontend repos.
+Build pipelines created in Jenkins and also migrated to CloudBees Flow for seamless deployments.
+strictly followed Agile methodologies and DevOps practices with iterative development, cross-functional collaboration, automated testing, 
+and continuous delivery to achieve projected timelines and maintained high-quality microservices.
+played crucial role in containerization of application images and creating deployments to kubernetes cluster using Helm/Openshift platform.
+The first Bonds Product Go-Live has been completed, and the project is now moving into Phase 2 with Funds Trade products.
